@@ -1,0 +1,26 @@
+Session History:
+
+November 28,2013
+-> Read the Deliverable
+-> Analyse the use cases of address book
+
+December 2,2013
+-> Black out!!!
+
+December 4,2013
+-> Read the entry in the address book
+-> add an entry to the address book
+-> partial update an entry
+
+December 5,2013
+-> create CRC for Address book
+
+December 7, 2013
+-> MainDriver and refactoring the code
+
+December 8,2013
+-> Delete and Update Class
+-> study GUI
+
+December 12,2013
+-> Create a repository and push it to the github
