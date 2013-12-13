@@ -84,7 +84,7 @@ public class AddEntry {
         TransformerFactory transformerFactory = TransformerFactory.newInstance();
         Transformer transformer = transformerFactory.newTransformer();
         transformer.setOutputProperty(OutputKeys.INDENT,"yes" );
-        StreamResult result = new StreamResult("C:\\Users\\mokz\\Desktop\\Assignment1\\addressbook.xml");
+        StreamResult result = new StreamResult("C://Users//mokz//Desktop//Assignment1//addressbook.xml");
         transformer.transform(source, result);
 
         System.out.println("You have successfully added " +fname+ " to your address book.");

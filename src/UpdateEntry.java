@@ -45,7 +45,7 @@ public class UpdateEntry {
         TransformerFactory transformerFactory = TransformerFactory.newInstance() ;
         Transformer transformer = transformerFactory.newTransformer();
         DOMSource source = new DOMSource(doc);
-        StreamResult result = new StreamResult(new File("C:\\Users\\mokz\\Desktop\\Assignment1\\addressbook.xml"));
+        StreamResult result = new StreamResult(new File("C://Users//mokz//Desktop//Assignment1//addressbook.xml"));
         transformer.transform(source, result);
 
     }
